@@ -1,0 +1,7 @@
+variable "rfg" {
+  
+}
+
+variable "stgh" {
+  
+}
