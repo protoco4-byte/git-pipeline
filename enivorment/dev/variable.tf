@@ -1,7 +1,7 @@
 variable "rfg" {
-  
+
 }
 
 variable "stgh" {
-  
+
 }
